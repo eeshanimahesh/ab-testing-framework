@@ -41,6 +41,13 @@ Relative lift:              +8.35%
 p-value:                    0.0002  ✅ Statistically significant
 P(Treatment > Control):     99.99%  (Bayesian)
 ```
+![Power Analysis](01_power_analysis.png)
+![EDA Dashboard](02_eda_dashboard.png)
+![Frequentist Testing](03_frequentist_testing.png)
+![Bayesian Testing](04_bayesian_testing.png)
+![Diff in Diff](05_diff_in_diff.png)
+![HTE Analysis](06_hte_analysis.png)
+
 
 **Decision: 🚀 SHIP TREATMENT**
 
