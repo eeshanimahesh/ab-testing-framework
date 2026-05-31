@@ -1,7 +1,7 @@
 # 🧪 End-to-End A/B Testing Framework
 ### Microsoft Copilot Onboarding Flow Experiment
 
-> **A production-grade experimentation analysis** covering the full lifecycle of an A/B test — from hypothesis formulation and power analysis through frequentist testing, Bayesian inference, causal reasoning, and a final ship/no-ship decision framework.
+> **A production-grade experimentation analysis** covering the full lifecycle of an A/B test: from hypothesis formulation and power analysis through frequentist testing, Bayesian inference, causal reasoning, and a final ship/no-ship decision framework.
 
 ---
 
